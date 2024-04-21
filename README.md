@@ -24,7 +24,7 @@ Within the realm of student well-being and academic success, the dataset sourced
 - Result Interpretation
 - Conclusion
 
-### Refer to the [S-M-H-A ](https://www.example.com) Jupyter Notebook for data analysis results 
+### Refer to the [S-M-H-A ](https://github.com/ebadebesin/student-mental-health/blob/main/smh-analysis-eba.ipynb) Jupyter Notebook for data analysis results 
 
 
 # Conclusion
